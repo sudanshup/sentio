@@ -1,0 +1,39 @@
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\components\YearlyPixels.tsx[24m[0m
+[0m   [2m5:14[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m45:79[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m45:86[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\lib\data.ts[24m[0m
+[0m   [2m29:22[22m  [33mwarning[39m  Unexpected any. Specify a different type             [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m   [2m35:22[22m  [33mwarning[39m  Unexpected any. Specify a different type             [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m   [2m92:21[22m  [31merror[39m    'lastDate' is never reassigned. Use 'const' instead  [2mprefer-const[22m[0m
+[0m  [2m123:23[22m  [33mwarning[39m  Unexpected any. Specify a different type             [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m145:23[22m  [33mwarning[39m  Unexpected any. Specify a different type             [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\pages\Auth.tsx[24m[0m
+[0m  [2m89:23[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\pages\Dashboard.tsx[24m[0m
+[0m   [2m31:56[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m141:50[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\pages\Insights.tsx[24m[0m
+[0m   [2m13:38[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m   [2m14:46[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m   [2m67:32[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m127:47[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\pages\JournalEditor.tsx[24m[0m
+[0m  [2m289:17[22m  [31merror[39m    'metadata' is never reassigned. Use 'const' instead                                                            [2mprefer-const[22m[0m
+[0m  [2m289:27[22m  [33mwarning[39m  Unexpected any. Specify a different type                                                                       [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m323:65[22m  [33mwarning[39m  Unexpected any. Specify a different type                                                                       [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m323:76[22m  [33mwarning[39m  Unexpected any. Specify a different type                                                                       [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m  [2m386:8[22m   [33mwarning[39m  React Hook useEffect has a missing dependency: 'handleSave'. Either include it or remove the dependency array  [2mreact-hooks/exhaustive-deps[22m[0m
+[0m[0m
+[0m[4mC:\Users\Kev\.gemini\antigravity\scratch\sentio-emotion\src\pages\Settings.tsx[24m[0m
+[0m  [2m7:38[22m  [33mwarning[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[31m[1m✖ 21 problems (2 errors, 19 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[31m[1m  2 errors and 0 warnings potentially fixable with the `--fix` option.[22m[39m[0m
+[0m[31m[1m[22m[39m[0m

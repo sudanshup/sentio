@@ -89,7 +89,7 @@ export class DataService {
 
                 const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
                 let streak = settings?.streak_count || 0;
-                let lastDate = settings?.last_entry_date;
+                const lastDate = settings?.last_entry_date;
 
                 if (lastDate !== today) {
                     // It's a new day

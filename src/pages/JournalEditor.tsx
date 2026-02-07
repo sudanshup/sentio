@@ -286,7 +286,7 @@ export default function JournalEditor() {
             const encryptedData = EncryptionService.encrypt(content, masterKey);
 
             // 2. AI Analysis (Strip HTML)
-            let metadata: any = { wordCount: content.split(/\s+/).filter(w => w.length > 0).length };
+            const metadata: any = { wordCount: content.split(/\s+/).filter(w => w.length > 0).length };
             const plainText = content.replace(/<[^>]+>/g, ' ');
 
             // Extract Title
